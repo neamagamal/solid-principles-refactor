@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78A95396-0B7B-493A-B640-D03438CE69B8}|SOLID_Cases.csproj|c:\\users\\user\\downloads\\solid_cases\\solid_cases\\solid_case\\case_3_lsp\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A95396-0B7B-493A-B640-D03438CE69B8}|SOLID_Cases.csproj|solutionrelative:solid_case\\case_3_lsp\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A95396-0B7B-493A-B640-D03438CE69B8}|SOLID_Cases.csproj|C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\solid_case\\case_4_isp\\multifunctiondevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A95396-0B7B-493A-B640-D03438CE69B8}|SOLID_Cases.csproj|solutionrelative:solid_case\\case_4_isp\\multifunctiondevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A95396-0B7B-493A-B640-D03438CE69B8}|SOLID_Cases.csproj|C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\solid_case\\case_3_lsp\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A95396-0B7B-493A-B640-D03438CE69B8}|SOLID_Cases.csproj|solutionrelative:solid_case\\case_3_lsp\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A95396-0B7B-493A-B640-D03438CE69B8}|SOLID_Cases.csproj|C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\solid_case\\case_5_dip\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A95396-0B7B-493A-B640-D03438CE69B8}|SOLID_Cases.csproj|solutionrelative:solid_case\\case_5_dip\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A95396-0B7B-493A-B640-D03438CE69B8}|SOLID_Cases.csproj|C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\solid_case\\case_5_dip\\imanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A95396-0B7B-493A-B640-D03438CE69B8}|SOLID_Cases.csproj|solutionrelative:solid_case\\case_5_dip\\imanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A95396-0B7B-493A-B640-D03438CE69B8}|SOLID_Cases.csproj|C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\solid_case\\case_4_isp\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A95396-0B7B-493A-B640-D03438CE69B8}|SOLID_Cases.csproj|solutionrelative:solid_case\\case_4_isp\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A95396-0B7B-493A-B640-D03438CE69B8}|SOLID_Cases.csproj|C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A95396-0B7B-493A-B640-D03438CE69B8}|SOLID_Cases.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A95396-0B7B-493A-B640-D03438CE69B8}|SOLID_Cases.csproj|C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\solid_case\\case_4_isp\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A95396-0B7B-493A-B640-D03438CE69B8}|SOLID_Cases.csproj|solutionrelative:solid_case\\case_4_isp\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A95396-0B7B-493A-B640-D03438CE69B8}|SOLID_Cases.csproj|C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\solid_case\\case_2_ocp\\shape2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A95396-0B7B-493A-B640-D03438CE69B8}|SOLID_Cases.csproj|solutionrelative:solid_case\\case_2_ocp\\shape2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A95396-0B7B-493A-B640-D03438CE69B8}|SOLID_Cases.csproj|C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\solid_case\\case_2_ocp\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A95396-0B7B-493A-B640-D03438CE69B8}|SOLID_Cases.csproj|solutionrelative:solid_case\\case_2_ocp\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A95396-0B7B-493A-B640-D03438CE69B8}|SOLID_Cases.csproj|C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\solid_case\\case_2_ocp\\paymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A95396-0B7B-493A-B640-D03438CE69B8}|SOLID_Cases.csproj|solutionrelative:solid_case\\case_2_ocp\\paymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A95396-0B7B-493A-B640-D03438CE69B8}|SOLID_Cases.csproj|C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\solid_case\\case_2_ocp\\drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A95396-0B7B-493A-B640-D03438CE69B8}|SOLID_Cases.csproj|solutionrelative:solid_case\\case_2_ocp\\drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A95396-0B7B-493A-B640-D03438CE69B8}|SOLID_Cases.csproj|C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\solid_case\\case_1_srp\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A95396-0B7B-493A-B640-D03438CE69B8}|SOLID_Cases.csproj|solutionrelative:solid_case\\case_1_srp\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A95396-0B7B-493A-B640-D03438CE69B8}|SOLID_Cases.csproj|C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\solid_case\\case_1_srp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A95396-0B7B-493A-B640-D03438CE69B8}|SOLID_Cases.csproj|solutionrelative:solid_case\\case_1_srp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A95396-0B7B-493A-B640-D03438CE69B8}|SOLID_Cases.csproj|C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\solid_case\\case_1_srp\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A95396-0B7B-493A-B640-D03438CE69B8}|SOLID_Cases.csproj|solutionrelative:solid_case\\case_1_srp\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\SOLID_Case\\Case_5_DIP\\Worker.cs",
+              "RelativeDocumentMoniker": "SOLID_Case\\Case_5_DIP\\Worker.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\SOLID_Case\\Case_5_DIP\\Worker.cs",
+              "RelativeToolTip": "SOLID_Case\\Case_5_DIP\\Worker.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T08:22:48.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Activity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\SOLID_Case\\Case_4_ISP\\Activity.cs",
+              "RelativeDocumentMoniker": "SOLID_Case\\Case_4_ISP\\Activity.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\SOLID_Case\\Case_4_ISP\\Activity.cs",
+              "RelativeToolTip": "SOLID_Case\\Case_4_ISP\\Activity.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwDMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T12:24:44.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MultiFunctionDevice.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\SOLID_Case\\Case_4_ISP\\MultiFunctionDevice.cs",
+              "RelativeDocumentMoniker": "SOLID_Case\\Case_4_ISP\\MultiFunctionDevice.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\SOLID_Case\\Case_4_ISP\\MultiFunctionDevice.cs",
+              "RelativeToolTip": "SOLID_Case\\Case_4_ISP\\MultiFunctionDevice.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAowC8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T12:24:48.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\SOLID_Case\\Case_3_LSP\\Document.cs",
+              "RelativeDocumentMoniker": "SOLID_Case\\Case_3_LSP\\Document.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\SOLID_Case\\Case_3_LSP\\Document.cs",
+              "RelativeToolTip": "SOLID_Case\\Case_3_LSP\\Document.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA1wCMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T12:47:55.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\SOLID_Case\\Case_3_LSP\\Rectangle.cs",
+              "RelativeDocumentMoniker": "SOLID_Case\\Case_3_LSP\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\SOLID_Case\\Case_3_LSP\\Rectangle.cs",
+              "RelativeToolTip": "SOLID_Case\\Case_3_LSP\\Rectangle.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T12:48:08.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:44:03.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\SOLID_Case\\Case_5_DIP\\IManager.cs",
+              "RelativeDocumentMoniker": "SOLID_Case\\Case_5_DIP\\IManager.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\SOLID_Case\\Case_5_DIP\\IManager.cs",
+              "RelativeToolTip": "SOLID_Case\\Case_5_DIP\\IManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T12:11:40.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\SOLID_Case\\Case_4_ISP\\Logger.cs",
+              "RelativeDocumentMoniker": "SOLID_Case\\Case_4_ISP\\Logger.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\SOLID_Case\\Case_4_ISP\\Logger.cs",
+              "RelativeToolTip": "SOLID_Case\\Case_4_ISP\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T12:24:47.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Shape2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\SOLID_Case\\Case_2_OCP\\Shape2.cs",
+              "RelativeDocumentMoniker": "SOLID_Case\\Case_2_OCP\\Shape2.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\SOLID_Case\\Case_2_OCP\\Shape2.cs",
+              "RelativeToolTip": "SOLID_Case\\Case_2_OCP\\Shape2.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAcwAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:13:47.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\SOLID_Case\\Case_2_OCP\\Shape.cs",
+              "RelativeDocumentMoniker": "SOLID_Case\\Case_2_OCP\\Shape.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\SOLID_Case\\Case_2_OCP\\Shape.cs",
+              "RelativeToolTip": "SOLID_Case\\Case_2_OCP\\Shape.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAcwC0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:06:15.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaymentProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\SOLID_Case\\Case_2_OCP\\PaymentProcessor.cs",
+              "RelativeDocumentMoniker": "SOLID_Case\\Case_2_OCP\\PaymentProcessor.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\SOLID_Case\\Case_2_OCP\\PaymentProcessor.cs",
+              "RelativeToolTip": "SOLID_Case\\Case_2_OCP\\PaymentProcessor.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:06:13.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Drawing.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\SOLID_Case\\Case_2_OCP\\Drawing.cs",
+              "RelativeDocumentMoniker": "SOLID_Case\\Case_2_OCP\\Drawing.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\SOLID_Case\\Case_2_OCP\\Drawing.cs",
+              "RelativeToolTip": "SOLID_Case\\Case_2_OCP\\Drawing.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:06:10.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\SOLID_Case\\Case_1_SRP\\Order.cs",
+              "RelativeDocumentMoniker": "SOLID_Case\\Case_1_SRP\\Order.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\SOLID_Case\\Case_1_SRP\\Order.cs",
+              "RelativeToolTip": "SOLID_Case\\Case_1_SRP\\Order.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:48:04.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\SOLID_Case\\Case_1_SRP\\Employee.cs",
+              "RelativeDocumentMoniker": "SOLID_Case\\Case_1_SRP\\Employee.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\SOLID_Case\\Case_1_SRP\\Employee.cs",
+              "RelativeToolTip": "SOLID_Case\\Case_1_SRP\\Employee.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA1wAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T13:56:04.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\SOLID_Case\\Case_1_SRP\\Book.cs",
+              "RelativeDocumentMoniker": "SOLID_Case\\Case_1_SRP\\Book.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\SOLID_Cases\\SOLID_Cases\\SOLID_Case\\Case_1_SRP\\Book.cs",
+              "RelativeToolTip": "SOLID_Case\\Case_1_SRP\\Book.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wBYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T13:38:34.696Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
